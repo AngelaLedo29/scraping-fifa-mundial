@@ -1,0 +1,194 @@
+[
+    {
+        "nombre": "Argentina",
+        "abr": "ARG",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/argentina/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/ARG?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Australia",
+        "abr": "AUS",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/australia/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/AUS?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "B\u00e9lgica",
+        "abr": "BEL",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/belgium/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/BEL?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Brasil",
+        "abr": "BRA",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/brazil/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/BRA?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Camer\u00fan",
+        "abr": "CMR",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/cameroon/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/CMR?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Canad\u00e1",
+        "abr": "CAN",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/canada/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/CAN?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Costa Rica",
+        "abr": "CRC",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/costa-rica/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/CRC?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Croacia",
+        "abr": "CRO",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/croatia/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/CRO?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Dinamarca",
+        "abr": "DEN",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/denmark/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/DEN?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Ecuador",
+        "abr": "ECU",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/ecuador/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/ECU?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Inglaterra",
+        "abr": "ENG",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/england/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/ENG?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Francia",
+        "abr": "FRA",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/france/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/FRA?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Alemania",
+        "abr": "GER",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/germany/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/GER?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Ghana",
+        "abr": "GHA",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/ghana/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/GHA?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Ir\u00e1n",
+        "abr": "IRN",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/iran/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/IRN?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Jap\u00f3n",
+        "abr": "JPN",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/japan/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/JPN?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Rep\u00fablica de Corea",
+        "abr": "KOR",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/korea-republic/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/KOR?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "M\u00e9xico",
+        "abr": "MEX",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/mexico/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/MEX?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Marruecos",
+        "abr": "MAR",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/morocco/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/MAR?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Pa\u00edses Bajos",
+        "abr": "NED",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/netherlands/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/NED?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Polonia",
+        "abr": "POL",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/poland/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/POL?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Portugal",
+        "abr": "POR",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/portugal/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/POR?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Catar",
+        "abr": "QAT",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/qatar/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/QAT?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Arabia Saud\u00ed",
+        "abr": "KSA",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/saudi-arabia/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/KSA?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Senegal",
+        "abr": "SEN",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/senegal/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/SEN?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Serbia",
+        "abr": "SRB",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/serbia/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/SRB?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Espa\u00f1a",
+        "abr": "ESP",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/spain/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/ESP?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Suiza",
+        "abr": "SUI",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/switzerland/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/SUI?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "T\u00fanez",
+        "abr": "TUN",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/tunisia/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/TUN?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Estados Unidos",
+        "abr": "USA",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/united-states/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/USA?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Uruguay",
+        "abr": "URU",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/uruguay/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/URU?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    },
+    {
+        "nombre": "Gales",
+        "abr": "WAL",
+        "url": "https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022/teams/wales/squad",
+        "bandera": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-4/WAL?tx=c_fill,g_auto,q_auto,w_94,h_62"
+    }
+]
